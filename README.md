@@ -1,5 +1,3 @@
 # Welcome to my new project
-
-This is java project to bedfsdfdsaff
-sadfsdfa
-HEI DARRELL
+This is java project to besdffsdf 
+Dette vil gi conflict 
